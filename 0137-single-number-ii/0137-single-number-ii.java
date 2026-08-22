@@ -3,7 +3,7 @@ class Solution {
         Arrays.sort(nums);
         int j=0;
         while(j<nums.length-1){
-            if(nums[j]!=nums[j+1]) {
+            if(nums[j]!=nums[j+2]) {
                 return nums[j];
             }
             j+=3;
