@@ -14,11 +14,20 @@ class Solution {
             if (c != 0) return false;
         }
         */
-        char a1[]=s.toCharArray();
+       /* char a1[]=s.toCharArray();
         char a2[]=t.toCharArray();
         Arrays.sort(a1);
         Arrays.sort(a2);
+        */
+        int f1[]=new int[26];
+        for(char ch:s.toCharArray()){
+            f1[ch-'a']++;
+        }
+          int f2[]=new int[26];
+        for(char ch:t.toCharArray()){
+            f2[ch-'a']++;
+        }
         
-        return Arrays.equals(a1,a2);
+        return Arrays.equals(f1,f2);
     }
 }
