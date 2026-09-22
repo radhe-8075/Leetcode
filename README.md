@@ -131,4 +131,8 @@ Problem statements belong to their respective owners. This repository is for per
 | [0181-employees-earning-more-than-their-managers](https://github.com/radhe-8075/Leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0584-find-customer-referee](https://github.com/radhe-8075/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
 | [0620-not-boring-movies](https://github.com/radhe-8075/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
+## Math
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [3871-count-commas-in-range-ii](https://github.com/radhe-8075/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 <!---LeetCode Topics End-->
