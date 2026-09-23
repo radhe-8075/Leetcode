@@ -124,6 +124,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/radhe-8075/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [1929-concatenation-of-array](https://github.com/radhe-8075/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 ## Database
 | Problem Name | Difficulty |
@@ -135,6 +136,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/radhe-8075/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [3871-count-commas-in-range-ii](https://github.com/radhe-8075/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
@@ -143,5 +145,6 @@ Problem statements belong to their respective owners. This repository is for per
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0043-multiply-strings](https://github.com/radhe-8075/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0392-is-subsequence](https://github.com/radhe-8075/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 <!---LeetCode Topics End-->
