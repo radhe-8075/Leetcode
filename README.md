@@ -110,6 +110,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhe-8075/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/radhe-8075/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/radhe-8075/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/radhe-8075/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1929-concatenation-of-array](https://github.com/radhe-8075/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/radhe-8075/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Divide and Conquer
@@ -149,4 +150,20 @@ Problem statements belong to their respective owners. This repository is for per
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/radhe-8075/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0392-is-subsequence](https://github.com/radhe-8075/Leetcode/tree/main/0392-is-subsequence/) | Easy |
+## Hash Table
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/radhe-8075/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+## Binary Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/radhe-8075/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/radhe-8075/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+## Prefix Sum
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/radhe-8075/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 <!---LeetCode Topics End-->
