@@ -111,6 +111,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0485-max-consecutive-ones](https://github.com/radhe-8075/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [1470-shuffle-the-array](https://github.com/radhe-8075/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1929-concatenation-of-array](https://github.com/radhe-8075/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/radhe-8075/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -137,6 +138,7 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/radhe-8075/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/radhe-8075/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/radhe-8075/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Two Pointers
 | Problem Name | Difficulty |
