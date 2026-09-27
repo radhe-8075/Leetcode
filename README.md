@@ -153,6 +153,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0043-multiply-strings](https://github.com/radhe-8075/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0392-is-subsequence](https://github.com/radhe-8075/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/radhe-8075/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/radhe-8075/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 ## Hash Table
 | Problem Name | Difficulty |
@@ -181,6 +182,7 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1096-brace-expansion-ii](https://github.com/radhe-8075/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -193,4 +195,8 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0303-range-sum-query-immutable](https://github.com/radhe-8075/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
+## Bracket Sequences
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 <!---LeetCode Topics End-->
