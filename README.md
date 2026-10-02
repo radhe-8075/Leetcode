@@ -137,6 +137,7 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0175-combine-two-tables](https://github.com/radhe-8075/Leetcode/tree/main/0175-combine-two-tables/) | Easy |
+| [0176-second-highest-salary](https://github.com/radhe-8075/Leetcode/tree/main/0176-second-highest-salary/) | Medium |
 | [0181-employees-earning-more-than-their-managers](https://github.com/radhe-8075/Leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/radhe-8075/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/radhe-8075/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
