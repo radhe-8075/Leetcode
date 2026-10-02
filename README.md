@@ -123,6 +123,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/radhe-8075/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhe-8075/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/radhe-8075/Leetcode/tree/main/0392-is-subsequence/) | Easy |
@@ -153,6 +154,7 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/radhe-8075/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0392-is-subsequence](https://github.com/radhe-8075/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/radhe-8075/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
@@ -182,6 +184,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## Backtracking
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0022-generate-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/radhe-8075/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Stack
 | Problem Name | Difficulty |
@@ -207,6 +210,7 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0020-valid-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
+| [0022-generate-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/radhe-8075/Leetcode/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
