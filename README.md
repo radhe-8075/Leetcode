@@ -106,6 +106,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/radhe-8075/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/radhe-8075/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhe-8075/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/radhe-8075/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
@@ -177,6 +178,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## Binary Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0035-search-insert-position](https://github.com/radhe-8075/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/radhe-8075/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/radhe-8075/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Sliding Window
