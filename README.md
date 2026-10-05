@@ -110,6 +110,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0035-search-insert-position](https://github.com/radhe-8075/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/radhe-8075/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhe-8075/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0283-move-zeroes](https://github.com/radhe-8075/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/radhe-8075/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/radhe-8075/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/radhe-8075/Leetcode/tree/main/0704-binary-search/) | Easy |
@@ -155,6 +156,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0283-move-zeroes](https://github.com/radhe-8075/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/radhe-8075/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## String
 | Problem Name | Difficulty |
