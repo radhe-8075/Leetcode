@@ -106,6 +106,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## Array
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/radhe-8075/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/radhe-8075/Leetcode/tree/main/0034-find-first-and-last-position-of-element-in-sorted-array/) | Medium |
 | [0035-search-insert-position](https://github.com/radhe-8075/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0053-maximum-subarray](https://github.com/radhe-8075/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
@@ -156,6 +157,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0027-remove-element](https://github.com/radhe-8075/Leetcode/tree/main/0027-remove-element/) | Easy |
 | [0283-move-zeroes](https://github.com/radhe-8075/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0392-is-subsequence](https://github.com/radhe-8075/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 ## String
