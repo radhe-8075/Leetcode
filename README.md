@@ -123,6 +123,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/radhe-8075/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/radhe-8075/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/radhe-8075/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/radhe-8075/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/radhe-8075/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 ## Divide and Conquer
 | Problem Name | Difficulty |
@@ -194,6 +195,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0035-search-insert-position](https://github.com/radhe-8075/Leetcode/tree/main/0035-search-insert-position/) | Easy |
 | [0704-binary-search](https://github.com/radhe-8075/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/radhe-8075/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/radhe-8075/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -228,6 +230,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0088-merge-sorted-array](https://github.com/radhe-8075/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0217-contains-duplicate](https://github.com/radhe-8075/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/radhe-8075/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
+| [2333-minimum-sum-of-squared-difference](https://github.com/radhe-8075/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 ## Design
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -251,4 +254,9 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0678-valid-parenthesis-string](https://github.com/radhe-8075/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [2333-minimum-sum-of-squared-difference](https://github.com/radhe-8075/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
+## Heap (Priority Queue)
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2333-minimum-sum-of-squared-difference](https://github.com/radhe-8075/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 <!---LeetCode Topics End-->
