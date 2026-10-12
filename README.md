@@ -155,6 +155,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0007-reverse-integer](https://github.com/radhe-8075/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/radhe-8075/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0189-rotate-array](https://github.com/radhe-8075/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/radhe-8075/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
