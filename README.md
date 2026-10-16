@@ -136,6 +136,7 @@ Problem statements belong to their respective owners. This repository is for per
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0053-maximum-subarray](https://github.com/radhe-8075/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
+| [0062-unique-paths](https://github.com/radhe-8075/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/radhe-8075/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhe-8075/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0392-is-subsequence](https://github.com/radhe-8075/Leetcode/tree/main/0392-is-subsequence/) | Easy |
@@ -160,6 +161,7 @@ Problem statements belong to their respective owners. This repository is for per
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/radhe-8075/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0043-multiply-strings](https://github.com/radhe-8075/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0062-unique-paths](https://github.com/radhe-8075/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/radhe-8075/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/radhe-8075/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/radhe-8075/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -286,4 +288,8 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0070-climbing-stairs](https://github.com/radhe-8075/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0062-unique-paths](https://github.com/radhe-8075/Leetcode/tree/main/0062-unique-paths/) | Medium |
 <!---LeetCode Topics End-->
