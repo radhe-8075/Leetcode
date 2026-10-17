@@ -163,6 +163,7 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/radhe-8075/Leetcode/tree/main/0007-reverse-integer/) | Medium |
+| [0009-palindrome-number](https://github.com/radhe-8075/Leetcode/tree/main/0009-palindrome-number/) | Easy |
 | [0043-multiply-strings](https://github.com/radhe-8075/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0062-unique-paths](https://github.com/radhe-8075/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/radhe-8075/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
