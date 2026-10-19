@@ -124,6 +124,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/radhe-8075/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/radhe-8075/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
 | [1929-concatenation-of-array](https://github.com/radhe-8075/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/radhe-8075/Leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/radhe-8075/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/radhe-8075/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/radhe-8075/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
@@ -150,6 +151,7 @@ Problem statements belong to their respective owners. This repository is for per
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/radhe-8075/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [1929-concatenation-of-array](https://github.com/radhe-8075/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/radhe-8075/Leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 ## Database
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -169,6 +171,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0070-climbing-stairs](https://github.com/radhe-8075/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
 | [0189-rotate-array](https://github.com/radhe-8075/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0509-fibonacci-number](https://github.com/radhe-8075/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+| [2221-find-triangular-sum-of-an-array](https://github.com/radhe-8075/Leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/radhe-8075/Leetcode/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3871-count-commas-in-range-ii](https://github.com/radhe-8075/Leetcode/tree/main/3871-count-commas-in-range-ii/) | Medium |
 ## Two Pointers
@@ -300,6 +303,7 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0062-unique-paths](https://github.com/radhe-8075/Leetcode/tree/main/0062-unique-paths/) | Medium |
+| [2221-find-triangular-sum-of-an-array](https://github.com/radhe-8075/Leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 ## Quickselect
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -308,4 +312,8 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0509-fibonacci-number](https://github.com/radhe-8075/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
+## Number Theory
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2221-find-triangular-sum-of-an-array](https://github.com/radhe-8075/Leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 <!---LeetCode Topics End-->
