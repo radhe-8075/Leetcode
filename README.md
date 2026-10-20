@@ -112,6 +112,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0053-maximum-subarray](https://github.com/radhe-8075/Leetcode/tree/main/0053-maximum-subarray/) | Medium |
 | [0088-merge-sorted-array](https://github.com/radhe-8075/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhe-8075/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [0136-single-number](https://github.com/radhe-8075/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/radhe-8075/Leetcode/tree/main/0189-rotate-array/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/radhe-8075/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/radhe-8075/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
@@ -316,4 +317,8 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2221-find-triangular-sum-of-an-array](https://github.com/radhe-8075/Leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
+## Bit Manipulation
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0136-single-number](https://github.com/radhe-8075/Leetcode/tree/main/0136-single-number/) | Easy |
 <!---LeetCode Topics End-->
