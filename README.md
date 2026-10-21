@@ -120,6 +120,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0303-range-sum-query-immutable](https://github.com/radhe-8075/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/radhe-8075/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
 | [0704-binary-search](https://github.com/radhe-8075/Leetcode/tree/main/0704-binary-search/) | Easy |
+| [0867-transpose-matrix](https://github.com/radhe-8075/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/radhe-8075/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1470-shuffle-the-array](https://github.com/radhe-8075/Leetcode/tree/main/1470-shuffle-the-array/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/radhe-8075/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
@@ -152,6 +153,7 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0043-multiply-strings](https://github.com/radhe-8075/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0867-transpose-matrix](https://github.com/radhe-8075/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1929-concatenation-of-array](https://github.com/radhe-8075/Leetcode/tree/main/1929-concatenation-of-array/) | Easy |
 | [2221-find-triangular-sum-of-an-array](https://github.com/radhe-8075/Leetcode/tree/main/2221-find-triangular-sum-of-an-array/) | Medium |
 ## Database
@@ -268,6 +270,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0867-transpose-matrix](https://github.com/radhe-8075/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/radhe-8075/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/radhe-8075/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Greedy
