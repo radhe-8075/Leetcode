@@ -114,6 +114,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/radhe-8075/Leetcode/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0136-single-number](https://github.com/radhe-8075/Leetcode/tree/main/0136-single-number/) | Easy |
 | [0189-rotate-array](https://github.com/radhe-8075/Leetcode/tree/main/0189-rotate-array/) | Medium |
+| [0200-number-of-islands](https://github.com/radhe-8075/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0215-kth-largest-element-in-an-array](https://github.com/radhe-8075/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/radhe-8075/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/radhe-8075/Leetcode/tree/main/0283-move-zeroes/) | Easy |
@@ -242,6 +243,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## Breadth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/radhe-8075/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/radhe-8075/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 ## Sorting
 | Problem Name | Difficulty |
@@ -270,6 +272,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## Matrix
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0200-number-of-islands](https://github.com/radhe-8075/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 | [0867-transpose-matrix](https://github.com/radhe-8075/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [1572-matrix-diagonal-sum](https://github.com/radhe-8075/Leetcode/tree/main/1572-matrix-diagonal-sum/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/radhe-8075/Leetcode/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
@@ -326,4 +329,12 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/radhe-8075/Leetcode/tree/main/0136-single-number/) | Easy |
+## Depth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/radhe-8075/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Union-Find
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0200-number-of-islands](https://github.com/radhe-8075/Leetcode/tree/main/0200-number-of-islands/) | Medium |
 <!---LeetCode Topics End-->
