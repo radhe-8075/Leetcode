@@ -193,6 +193,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0020-valid-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/radhe-8075/Leetcode/tree/main/0043-multiply-strings/) | Medium |
+| [0058-length-of-last-word](https://github.com/radhe-8075/Leetcode/tree/main/0058-length-of-last-word/) | Easy |
 | [0392-is-subsequence](https://github.com/radhe-8075/Leetcode/tree/main/0392-is-subsequence/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/radhe-8075/Leetcode/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0856-score-of-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/0856-score-of-parentheses/) | Medium |
