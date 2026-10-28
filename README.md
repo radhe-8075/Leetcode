@@ -171,6 +171,7 @@ Problem statements belong to their respective owners. This repository is for per
 | ------- | ------- |
 | [0007-reverse-integer](https://github.com/radhe-8075/Leetcode/tree/main/0007-reverse-integer/) | Medium |
 | [0009-palindrome-number](https://github.com/radhe-8075/Leetcode/tree/main/0009-palindrome-number/) | Easy |
+| [0013-roman-to-integer](https://github.com/radhe-8075/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0043-multiply-strings](https://github.com/radhe-8075/Leetcode/tree/main/0043-multiply-strings/) | Medium |
 | [0062-unique-paths](https://github.com/radhe-8075/Leetcode/tree/main/0062-unique-paths/) | Medium |
 | [0070-climbing-stairs](https://github.com/radhe-8075/Leetcode/tree/main/0070-climbing-stairs/) | Easy |
@@ -190,6 +191,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/radhe-8075/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0020-valid-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/radhe-8075/Leetcode/tree/main/0022-generate-parentheses/) | Medium |
 | [0043-multiply-strings](https://github.com/radhe-8075/Leetcode/tree/main/0043-multiply-strings/) | Medium |
@@ -205,6 +207,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## Hash Table
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0013-roman-to-integer](https://github.com/radhe-8075/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/radhe-8075/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/radhe-8075/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/radhe-8075/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
