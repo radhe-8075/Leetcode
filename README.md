@@ -327,6 +327,7 @@ Problem statements belong to their respective owners. This repository is for per
 ## Recursion
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/radhe-8075/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 | [0509-fibonacci-number](https://github.com/radhe-8075/Leetcode/tree/main/0509-fibonacci-number/) | Easy |
 ## Number Theory
 | Problem Name | Difficulty |
@@ -344,4 +345,8 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0200-number-of-islands](https://github.com/radhe-8075/Leetcode/tree/main/0200-number-of-islands/) | Medium |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0206-reverse-linked-list](https://github.com/radhe-8075/Leetcode/tree/main/0206-reverse-linked-list/) | Easy |
 <!---LeetCode Topics End-->
