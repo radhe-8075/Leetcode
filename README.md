@@ -165,6 +165,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0181-employees-earning-more-than-their-managers](https://github.com/radhe-8075/Leetcode/tree/main/0181-employees-earning-more-than-their-managers/) | Easy |
 | [0182-duplicate-emails](https://github.com/radhe-8075/Leetcode/tree/main/0182-duplicate-emails/) | Easy |
 | [0584-find-customer-referee](https://github.com/radhe-8075/Leetcode/tree/main/0584-find-customer-referee/) | Easy |
+| [0595-big-countries](https://github.com/radhe-8075/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/radhe-8075/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/radhe-8075/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Math
