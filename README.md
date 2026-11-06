@@ -168,6 +168,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0595-big-countries](https://github.com/radhe-8075/Leetcode/tree/main/0595-big-countries/) | Easy |
 | [0620-not-boring-movies](https://github.com/radhe-8075/Leetcode/tree/main/0620-not-boring-movies/) | Easy |
 | [1148-article-views-i](https://github.com/radhe-8075/Leetcode/tree/main/1148-article-views-i/) | Easy |
+| [1378-replace-employee-id-with-the-unique-identifier](https://github.com/radhe-8075/Leetcode/tree/main/1378-replace-employee-id-with-the-unique-identifier/) | Easy |
 | [1683-invalid-tweets](https://github.com/radhe-8075/Leetcode/tree/main/1683-invalid-tweets/) | Easy |
 | [1757-recyclable-and-low-fat-products](https://github.com/radhe-8075/Leetcode/tree/main/1757-recyclable-and-low-fat-products/) | Easy |
 ## Math
