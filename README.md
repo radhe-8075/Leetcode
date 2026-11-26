@@ -120,6 +120,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0283-move-zeroes](https://github.com/radhe-8075/Leetcode/tree/main/0283-move-zeroes/) | Easy |
 | [0303-range-sum-query-immutable](https://github.com/radhe-8075/Leetcode/tree/main/0303-range-sum-query-immutable/) | Easy |
 | [0485-max-consecutive-ones](https://github.com/radhe-8075/Leetcode/tree/main/0485-max-consecutive-ones/) | Easy |
+| [0645-set-mismatch](https://github.com/radhe-8075/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0704-binary-search](https://github.com/radhe-8075/Leetcode/tree/main/0704-binary-search/) | Easy |
 | [0867-transpose-matrix](https://github.com/radhe-8075/Leetcode/tree/main/0867-transpose-matrix/) | Easy |
 | [0912-sort-an-array](https://github.com/radhe-8075/Leetcode/tree/main/0912-sort-an-array/) | Medium |
@@ -222,6 +223,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0012-integer-to-roman](https://github.com/radhe-8075/Leetcode/tree/main/0012-integer-to-roman/) | Medium |
 | [0013-roman-to-integer](https://github.com/radhe-8075/Leetcode/tree/main/0013-roman-to-integer/) | Easy |
 | [0217-contains-duplicate](https://github.com/radhe-8075/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0645-set-mismatch](https://github.com/radhe-8075/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [1096-brace-expansion-ii](https://github.com/radhe-8075/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/radhe-8075/Leetcode/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/radhe-8075/Leetcode/tree/main/1807-evaluate-the-bracket-pairs-of-a-string/) | Medium |
@@ -269,6 +271,7 @@ Problem statements belong to their respective owners. This repository is for per
 | [0088-merge-sorted-array](https://github.com/radhe-8075/Leetcode/tree/main/0088-merge-sorted-array/) | Easy |
 | [0215-kth-largest-element-in-an-array](https://github.com/radhe-8075/Leetcode/tree/main/0215-kth-largest-element-in-an-array/) | Medium |
 | [0217-contains-duplicate](https://github.com/radhe-8075/Leetcode/tree/main/0217-contains-duplicate/) | Easy |
+| [0645-set-mismatch](https://github.com/radhe-8075/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 | [0912-sort-an-array](https://github.com/radhe-8075/Leetcode/tree/main/0912-sort-an-array/) | Medium |
 | [1096-brace-expansion-ii](https://github.com/radhe-8075/Leetcode/tree/main/1096-brace-expansion-ii/) | Hard |
 | [2333-minimum-sum-of-squared-difference](https://github.com/radhe-8075/Leetcode/tree/main/2333-minimum-sum-of-squared-difference/) | Medium |
@@ -350,6 +353,7 @@ Problem statements belong to their respective owners. This repository is for per
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0136-single-number](https://github.com/radhe-8075/Leetcode/tree/main/0136-single-number/) | Easy |
+| [0645-set-mismatch](https://github.com/radhe-8075/Leetcode/tree/main/0645-set-mismatch/) | Easy |
 ## Depth-First Search
 | Problem Name | Difficulty |
 | ------- | ------- |
